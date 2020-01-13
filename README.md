@@ -1,1 +1,2 @@
 # time-series
+Canadian housing completions is an important economic indicator.In this article, we are going to use the Box–Jenkins method to identify the ARIMA model.Two models will be used to fit the Candaian housing completions data from 1999 quarter3 to 2019 quarter3.After compare two models,we use our best model which includes the inventional analysis to predict the next two years housing completions.We are expecting to see a decreasing trend in the future
